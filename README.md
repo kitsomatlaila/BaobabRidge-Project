@@ -62,3 +62,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Summary and Error Handling implemented by Prosper-11.
 
 - Project scope defined.
+- Technology stack: C# .NET 8.
