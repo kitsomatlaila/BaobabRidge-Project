@@ -64,3 +64,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Project scope defined.
 - Technology stack: C# .NET 8.
 - File formats outlined.
+- Initial ERD conceptualized.
