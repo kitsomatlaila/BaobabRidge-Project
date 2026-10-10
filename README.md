@@ -67,3 +67,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Initial ERD conceptualized.
 
 - Implemented ID validation logic.
+- Added error handling for empty fields.
