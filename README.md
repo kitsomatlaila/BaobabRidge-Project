@@ -69,3 +69,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Implemented ID validation logic.
 - Added error handling for empty fields.
 - Refined validation messages.
+- Completed Add Animal feature.
