@@ -72,3 +72,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Completed Add Animal feature.
 
 - Designed DataGridView layout.
+- Implemented row selection logic.
