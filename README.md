@@ -73,3 +73,4 @@ Status and housing units are only recalculated when a record is added or updated
 
 - Designed DataGridView layout.
 - Implemented row selection logic.
+- Added update and delete buttons.
