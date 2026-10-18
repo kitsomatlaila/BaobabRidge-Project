@@ -77,3 +77,4 @@ Status and housing units are only recalculated when a record is added or updated
 - Completed UI feature integration.
 
 - Created SummaryGenerator class.
+- Implemented average calculations.
