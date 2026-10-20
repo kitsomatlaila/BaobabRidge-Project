@@ -75,3 +75,5 @@ Status and housing units are only recalculated when a record is added or updated
 - Implemented row selection logic.
 - Added update and delete buttons.
 - Completed UI feature integration.
+
+- Added summary report generation logic.
