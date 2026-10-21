@@ -56,3 +56,5 @@ The application uses a clean separation of concerns across multiple classes to e
 The application is single-user; it does not implement file-locking for simultaneous multi-user editing.
 Status and housing units are only recalculated when a record is added or updated, not dynamically on load.
 
+
+- View, Update, and Delete features implemented by racingprince.
