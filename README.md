@@ -70,3 +70,8 @@ Status and housing units are only recalculated when a record is added or updated
 - Added error handling for empty fields.
 - Refined validation messages.
 - Completed Add Animal feature.
+
+- Designed DataGridView layout.
+- Implemented row selection logic.
+- Added update and delete buttons.
+- Completed UI feature integration.
