@@ -60,3 +60,8 @@ Status and housing units are only recalculated when a record is added or updated
 - View, Update, and Delete features implemented by racingprince.
 
 - Summary and Error Handling implemented by Prosper-11.
+
+- Project scope defined.
+- Technology stack: C# .NET 8.
+- File formats outlined.
+- Initial ERD conceptualized.
