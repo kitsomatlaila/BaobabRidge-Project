@@ -65,3 +65,8 @@ Status and housing units are only recalculated when a record is added or updated
 - Technology stack: C# .NET 8.
 - File formats outlined.
 - Initial ERD conceptualized.
+
+- Implemented ID validation logic.
+- Added error handling for empty fields.
+- Refined validation messages.
+- Completed Add Animal feature.
